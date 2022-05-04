@@ -4,6 +4,7 @@ body{
 .top{
     background-color: #1e272e;
     height: 30em;
+    position: fixed;
 }
 
 .navbar{
