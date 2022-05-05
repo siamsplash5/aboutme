@@ -4,13 +4,13 @@ body{
 .top{
     background-color: #1e272e;
     height: 30em;
-    position: fixed;
 }
 
 .navbar{
     font-family: 'Poppins', sans-serif;
     font: bold;
     color: white;
+    position: fixed;
 }
 
 .container1{
